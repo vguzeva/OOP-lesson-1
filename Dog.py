@@ -3,7 +3,7 @@ from Common.mammal import Mammal
 # child class
 class Dog(Mammal):
 
-    legs = 5
+    legs = 10
     eyes = 2
 
     def __init__(self, name, age, breed) -> None:
