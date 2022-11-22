@@ -17,6 +17,8 @@ John = Human('Asian', 'Mandarin')
 Steve.bio()
 John.bio()
 
+print("hello")
+
 # print(Steve.race)
 # print(Steve.language)
 # print(John.language)
